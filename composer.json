@@ -1,11 +1,12 @@
 {
-    "name": "spatie/laravel-json-api-paginate",
+    "name": "jackardios/laravel-json-api-paginate",
     "description": "A paginator that plays nice with the JSON API spec",
     "keywords": [
+        "jackardios",
         "spatie",
         "laravel-json-api-paginate"
     ],
-    "homepage": "https://github.com/spatie/laravel-json-api-paginate",
+    "homepage": "https://github.com/jackardios/laravel-json-api-paginate",
     "license": "MIT",
     "authors": [
         {
